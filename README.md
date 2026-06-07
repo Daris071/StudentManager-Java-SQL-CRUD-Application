@@ -7,7 +7,7 @@ A student record management system demonstrating core Java OOP and SQL/JDBC conc
 
 A student record management system demonstrating core **Java OOP** and **SQL/JDBC** concepts. Includes a web-based UI prototype and a full Java console application with database persistence.
 
-> Live Demo (UI Prototype): [darisvatic.github.io/student-manager](https://darisvatic.github.io/student-manager)
+
 
 ---
 
