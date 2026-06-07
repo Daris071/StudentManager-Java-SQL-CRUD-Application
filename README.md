@@ -9,13 +9,7 @@ A student record management system demonstrating core **Java OOP** and **SQL/JDB
 
 
 
----
 
-##  Preview
-
-![StudentManager Screenshot](preview.png)
-
----
 
 ##  What I Built
 
